@@ -19,6 +19,11 @@
 + Scrollback
 + font2
 
+## My Changes
+- Cursor shape changed
+- Changing font from mono to meslo
+- Different default shell
+
 ## Contact
 
 Forked originally from:
